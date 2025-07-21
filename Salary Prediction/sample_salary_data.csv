@@ -1,0 +1,501 @@
+role,experience,education,location,company_size,salary
+Manager,20,Master's,Delhi,Large,2591940
+Software Engineer,9,Master's,Mumbai,Small,953469
+Web Developer,8,Master's,Delhi,Medium,856226
+Manager,3,Master's,Pune,Small,1269173
+Data Scientist,0,Master's,Mumbai,Medium,882922
+Software Engineer,20,Bachelor's,Pune,Medium,1247755
+Data Scientist,17,Master's,Kolkata,Small,1367958
+Data Scientist,8,Bachelor's,Pune,Small,845901
+Web Developer,0,Bachelor's,Delhi,Medium,533056
+ML Engineer,12,PhD,Mumbai,Large,1879425
+Data Scientist,18,PhD,Mumbai,Large,2055239
+DevOps Engineer,19,Bachelor's,Chennai,Small,1143797
+ML Engineer,12,Master's,Chennai,Large,1580909
+Web Developer,7,PhD,Kolkata,Small,893599
+Software Engineer,16,Bachelor's,Hyderabad,Large,1175211
+Data Scientist,7,PhD,Pune,Medium,1345525
+Web Developer,17,PhD,Delhi,Small,1154921
+DevOps Engineer,17,Master's,Delhi,Large,1543629
+DevOps Engineer,10,Bachelor's,Pune,Medium,974210
+Software Engineer,9,PhD,Bangalore,Large,1299184
+ML Engineer,8,PhD,Mumbai,Large,1639005
+Web Developer,11,PhD,Mumbai,Medium,1093740
+ML Engineer,17,Master's,Hyderabad,Medium,1617238
+Manager,5,PhD,Kolkata,Small,1526480
+Software Engineer,10,PhD,Kolkata,Small,1084109
+Manager,19,PhD,Mumbai,Medium,2729525
+Software Engineer,0,PhD,Hyderabad,Medium,841331
+Data Scientist,13,Master's,Pune,Medium,1435894
+ML Engineer,14,PhD,Hyderabad,Large,1957425
+ML Engineer,0,PhD,Kolkata,Medium,1031718
+Web Developer,10,Bachelor's,Hyderabad,Small,724710
+Web Developer,14,PhD,Pune,Small,1053899
+Data Scientist,10,Master's,Delhi,Small,1133599
+Manager,2,Master's,Mumbai,Large,1408599
+Data Scientist,0,Bachelor's,Chennai,Large,795042
+Software Engineer,5,Master's,Chennai,Small,760370
+ML Engineer,9,PhD,Bangalore,Large,1707723
+DevOps Engineer,1,PhD,Mumbai,Small,871957
+Software Engineer,20,PhD,Mumbai,Large,1893647
+Data Scientist,8,Bachelor's,Pune,Small,849761
+Web Developer,1,PhD,Chennai,Medium,758280
+DevOps Engineer,2,Bachelor's,Delhi,Medium,748358
+Software Engineer,4,Master's,Delhi,Small,761413
+Web Developer,13,PhD,Bangalore,Large,1312867
+ML Engineer,17,PhD,Hyderabad,Small,1728665
+DevOps Engineer,6,PhD,Hyderabad,Small,1061400
+Web Developer,3,PhD,Mumbai,Small,716337
+ML Engineer,11,Master's,Delhi,Small,1276682
+Web Developer,6,Master's,Mumbai,Large,813357
+Manager,13,Master's,Kolkata,Small,1796689
+ML Engineer,16,PhD,Chennai,Medium,1911132
+Data Scientist,5,Master's,Mumbai,Medium,1083299
+ML Engineer,7,PhD,Chennai,Small,1296550
+ML Engineer,8,PhD,Bangalore,Large,1579555
+Data Scientist,16,PhD,Pune,Small,1626624
+ML Engineer,6,Master's,Chennai,Small,1077628
+ML Engineer,16,Bachelor's,Chennai,Large,1521761
+Manager,3,Bachelor's,Hyderabad,Small,1001409
+Data Scientist,14,Master's,Hyderabad,Large,1546573
+Manager,15,PhD,Bangalore,Medium,2408643
+ML Engineer,13,PhD,Bangalore,Medium,1777897
+Software Engineer,12,PhD,Chennai,Small,1197947
+ML Engineer,13,PhD,Hyderabad,Large,1892715
+Web Developer,6,PhD,Kolkata,Large,979235
+Manager,5,Master's,Delhi,Medium,1519394
+Data Scientist,18,Bachelor's,Bangalore,Medium,1293921
+ML Engineer,15,Bachelor's,Mumbai,Medium,1294229
+DevOps Engineer,0,Bachelor's,Bangalore,Large,724023
+Data Scientist,3,PhD,Hyderabad,Large,1257355
+Software Engineer,4,PhD,Mumbai,Large,1113396
+Software Engineer,14,Bachelor's,Mumbai,Large,1095061
+Manager,19,Bachelor's,Bangalore,Large,2190432
+Manager,19,PhD,Chennai,Small,2443642
+DevOps Engineer,10,Master's,Delhi,Medium,1168800
+DevOps Engineer,5,PhD,Kolkata,Medium,1163830
+DevOps Engineer,19,Bachelor's,Hyderabad,Medium,1296604
+DevOps Engineer,7,PhD,Pune,Medium,1262467
+Software Engineer,20,Bachelor's,Chennai,Medium,1167418
+Manager,19,Master's,Bangalore,Large,2621315
+Software Engineer,6,Master's,Chennai,Large,984541
+DevOps Engineer,18,Bachelor's,Hyderabad,Medium,1277047
+ML Engineer,8,Bachelor's,Bangalore,Medium,1017625
+Web Developer,10,Bachelor's,Kolkata,Large,870698
+Software Engineer,14,Master's,Mumbai,Medium,1234266
+Manager,16,PhD,Pune,Medium,2507779
+Web Developer,13,Master's,Pune,Small,844216
+Software Engineer,15,Master's,Hyderabad,Large,1341422
+Manager,8,Master's,Bangalore,Large,1832612
+Software Engineer,10,Master's,Hyderabad,Large,1213156
+ML Engineer,7,Bachelor's,Pune,Medium,977019
+DevOps Engineer,2,Master's,Kolkata,Medium,855284
+DevOps Engineer,14,PhD,Mumbai,Large,1725342
+Software Engineer,13,Bachelor's,Mumbai,Medium,955386
+Web Developer,17,Master's,Bangalore,Medium,1154724
+Software Engineer,9,Bachelor's,Chennai,Medium,917774
+Software Engineer,19,PhD,Hyderabad,Large,1821811
+DevOps Engineer,1,Bachelor's,Kolkata,Small,629143
+ML Engineer,3,PhD,Delhi,Small,1078772
+DevOps Engineer,1,Master's,Kolkata,Medium,849573
+Web Developer,12,Master's,Hyderabad,Small,885518
+Manager,15,Master's,Bangalore,Medium,2081201
+Manager,8,PhD,Mumbai,Small,1741688
+Software Engineer,6,Master's,Chennai,Large,999476
+ML Engineer,2,Bachelor's,Hyderabad,Medium,813132
+Data Scientist,7,Master's,Hyderabad,Small,1042911
+DevOps Engineer,6,Bachelor's,Chennai,Large,948788
+Web Developer,15,PhD,Mumbai,Medium,1265375
+DevOps Engineer,16,Bachelor's,Bangalore,Small,1080155
+Data Scientist,4,Bachelor's,Chennai,Medium,815602
+Manager,19,Bachelor's,Mumbai,Small,1755137
+Manager,17,Bachelor's,Hyderabad,Medium,1863203
+Web Developer,1,Bachelor's,Hyderabad,Large,617666
+Manager,16,Bachelor's,Delhi,Small,1573096
+Manager,8,Bachelor's,Chennai,Small,1218629
+Manager,11,Bachelor's,Hyderabad,Large,1685202
+Software Engineer,4,Bachelor's,Chennai,Small,614542
+ML Engineer,7,PhD,Bangalore,Medium,1433998
+Manager,19,Master's,Delhi,Large,2620994
+Software Engineer,6,Bachelor's,Bangalore,Large,860467
+Software Engineer,20,Bachelor's,Hyderabad,Large,1288787
+Software Engineer,20,PhD,Mumbai,Large,1874471
+ML Engineer,20,Master's,Kolkata,Small,1640624
+Software Engineer,18,PhD,Kolkata,Small,1478117
+Data Scientist,19,PhD,Delhi,Medium,1933290
+Manager,14,Master's,Bangalore,Small,1834163
+ML Engineer,17,Master's,Chennai,Large,1854810
+DevOps Engineer,10,PhD,Hyderabad,Small,1197820
+Manager,13,Master's,Pune,Small,1746689
+ML Engineer,6,Bachelor's,Delhi,Medium,995061
+Data Scientist,13,Bachelor's,Delhi,Medium,1140713
+Software Engineer,15,PhD,Delhi,Large,1651622
+DevOps Engineer,6,Bachelor's,Hyderabad,Medium,821516
+Web Developer,5,PhD,Pune,Small,764733
+Web Developer,19,PhD,Mumbai,Medium,1394851
+DevOps Engineer,13,Master's,Chennai,Large,1374109
+Web Developer,6,Bachelor's,Hyderabad,Medium,617951
+DevOps Engineer,16,PhD,Chennai,Medium,1608188
+Software Engineer,3,PhD,Chennai,Small,876557
+Web Developer,1,Master's,Bangalore,Small,573568
+DevOps Engineer,14,PhD,Kolkata,Large,1720676
+DevOps Engineer,7,PhD,Hyderabad,Medium,1260835
+Software Engineer,18,Bachelor's,Pune,Small,1038028
+Manager,4,PhD,Kolkata,Small,1489560
+ML Engineer,13,PhD,Delhi,Medium,1702315
+ML Engineer,16,Master's,Hyderabad,Large,1817922
+Web Developer,8,PhD,Bangalore,Medium,974812
+ML Engineer,9,Bachelor's,Chennai,Large,1232170
+Web Developer,17,Bachelor's,Hyderabad,Small,795886
+DevOps Engineer,10,Bachelor's,Delhi,Medium,961781
+ML Engineer,4,PhD,Delhi,Small,1174949
+Web Developer,4,Master's,Kolkata,Small,630412
+Software Engineer,11,PhD,Delhi,Large,1383806
+Data Scientist,13,Master's,Chennai,Medium,1390506
+Manager,9,Bachelor's,Kolkata,Large,1556886
+DevOps Engineer,19,Bachelor's,Kolkata,Medium,1304498
+Software Engineer,14,PhD,Hyderabad,Large,1529114
+Data Scientist,2,Bachelor's,Hyderabad,Medium,772103
+Web Developer,4,Master's,Chennai,Large,768178
+Manager,10,PhD,Chennai,Large,2289480
+Web Developer,7,Bachelor's,Delhi,Large,767974
+ML Engineer,17,Master's,Pune,Large,1786718
+Software Engineer,7,Bachelor's,Hyderabad,Small,703625
+Software Engineer,18,PhD,Mumbai,Large,1775365
+Data Scientist,5,Master's,Kolkata,Medium,1083666
+Web Developer,2,Master's,Mumbai,Small,564442
+Web Developer,8,PhD,Kolkata,Medium,1023242
+ML Engineer,18,Bachelor's,Chennai,Large,1567813
+Web Developer,13,Master's,Hyderabad,Large,1134598
+Web Developer,0,Bachelor's,Pune,Small,482650
+Manager,10,Master's,Pune,Medium,1847319
+Web Developer,11,Master's,Chennai,Medium,905420
+Software Engineer,10,Master's,Hyderabad,Large,1189164
+Data Scientist,9,PhD,Kolkata,Medium,1417279
+Manager,6,Bachelor's,Kolkata,Medium,1320844
+Software Engineer,0,PhD,Delhi,Medium,809900
+Data Scientist,10,Master's,Kolkata,Small,1157902
+ML Engineer,18,Master's,Mumbai,Large,1892282
+ML Engineer,8,PhD,Mumbai,Large,1585656
+Web Developer,12,PhD,Pune,Large,1272491
+Data Scientist,8,Bachelor's,Mumbai,Large,1044398
+DevOps Engineer,4,Bachelor's,Chennai,Small,743679
+Web Developer,7,Master's,Delhi,Small,734026
+Software Engineer,20,PhD,Hyderabad,Large,1861541
+DevOps Engineer,0,Bachelor's,Delhi,Large,713467
+Manager,14,PhD,Bangalore,Small,2134649
+Web Developer,17,Bachelor's,Kolkata,Small,854669
+Software Engineer,4,Bachelor's,Bangalore,Small,633771
+DevOps Engineer,10,Bachelor's,Chennai,Large,1085038
+Software Engineer,8,Master's,Delhi,Large,1112402
+DevOps Engineer,20,Master's,Pune,Large,1746013
+Web Developer,14,PhD,Chennai,Small,1026572
+Data Scientist,13,Master's,Hyderabad,Small,1290425
+DevOps Engineer,4,PhD,Hyderabad,Small,952152
+Web Developer,12,Master's,Hyderabad,Medium,949297
+DevOps Engineer,10,Bachelor's,Kolkata,Medium,1017343
+Web Developer,7,PhD,Mumbai,Small,823190
+DevOps Engineer,6,PhD,Bangalore,Small,1098017
+Software Engineer,20,PhD,Pune,Medium,1708336
+ML Engineer,18,PhD,Chennai,Medium,1973215
+Data Scientist,16,Bachelor's,Delhi,Medium,1239083
+Software Engineer,5,Master's,Delhi,Large,972743
+Manager,18,PhD,Bangalore,Medium,2640700
+Manager,2,Master's,Pune,Large,1449836
+Web Developer,18,PhD,Bangalore,Small,1159076
+ML Engineer,7,Master's,Pune,Small,1105416
+Data Scientist,6,PhD,Delhi,Medium,1224511
+ML Engineer,13,Master's,Delhi,Medium,1440720
+DevOps Engineer,0,PhD,Kolkata,Large,1034598
+Manager,9,PhD,Mumbai,Small,1792799
+DevOps Engineer,1,PhD,Hyderabad,Medium,914976
+Software Engineer,5,PhD,Chennai,Large,1190536
+Manager,7,PhD,Pune,Large,2054545
+Web Developer,13,PhD,Bangalore,Small,1089082
+Data Scientist,8,Master's,Mumbai,Medium,1170211
+ML Engineer,16,Master's,Bangalore,Large,1782698
+ML Engineer,4,Master's,Mumbai,Small,963519
+Software Engineer,12,Bachelor's,Hyderabad,Small,872350
+Data Scientist,20,Master's,Delhi,Medium,1664852
+ML Engineer,7,Master's,Pune,Small,1100970
+Data Scientist,13,Bachelor's,Hyderabad,Medium,1107109
+Software Engineer,8,Bachelor's,Kolkata,Medium,884822
+Software Engineer,14,PhD,Bangalore,Small,1297892
+DevOps Engineer,19,Bachelor's,Delhi,Medium,1285685
+Manager,16,PhD,Delhi,Large,2815702
+ML Engineer,3,Bachelor's,Delhi,Small,758743
+Software Engineer,4,Master's,Hyderabad,Small,758555
+DevOps Engineer,20,Bachelor's,Hyderabad,Medium,1309594
+DevOps Engineer,8,PhD,Hyderabad,Large,1425385
+DevOps Engineer,7,PhD,Pune,Medium,1211575
+ML Engineer,14,Master's,Kolkata,Medium,1524922
+Software Engineer,6,PhD,Delhi,Medium,1105963
+ML Engineer,9,Bachelor's,Kolkata,Medium,1050923
+Software Engineer,10,Master's,Kolkata,Medium,1081586
+Web Developer,9,PhD,Chennai,Large,1098944
+Web Developer,3,PhD,Bangalore,Medium,815735
+DevOps Engineer,19,Bachelor's,Mumbai,Large,1420458
+Data Scientist,17,PhD,Bangalore,Large,1955538
+ML Engineer,19,PhD,Chennai,Medium,2022104
+DevOps Engineer,5,Bachelor's,Chennai,Medium,780349
+ML Engineer,11,PhD,Hyderabad,Medium,1620029
+Web Developer,18,PhD,Chennai,Small,1167278
+Software Engineer,4,PhD,Delhi,Large,1125267
+Manager,10,PhD,Delhi,Large,2334099
+Manager,12,Master's,Pune,Small,1776937
+ML Engineer,3,Master's,Kolkata,Small,881510
+Manager,17,PhD,Delhi,Medium,2600179
+ML Engineer,19,PhD,Delhi,Medium,2033789
+Data Scientist,12,PhD,Bangalore,Small,1431679
+Manager,11,Bachelor's,Delhi,Small,1377837
+DevOps Engineer,14,Master's,Bangalore,Small,1240990
+ML Engineer,19,Bachelor's,Mumbai,Large,1570800
+Software Engineer,14,Bachelor's,Pune,Small,904637
+Web Developer,1,Bachelor's,Pune,Large,568590
+Manager,18,PhD,Pune,Medium,2704301
+Data Scientist,0,PhD,Kolkata,Small,893629
+Web Developer,14,Bachelor's,Pune,Large,888982
+ML Engineer,0,Master's,Hyderabad,Large,1016200
+ML Engineer,6,Master's,Mumbai,Large,1336499
+DevOps Engineer,19,Bachelor's,Pune,Medium,1284283
+Manager,17,Master's,Delhi,Small,2003673
+Software Engineer,12,Master's,Chennai,Medium,1132762
+ML Engineer,20,PhD,Chennai,Medium,2091800
+Manager,12,PhD,Pune,Small,1990892
+DevOps Engineer,11,Master's,Mumbai,Medium,1205205
+Software Engineer,8,PhD,Bangalore,Small,1057291
+ML Engineer,5,Bachelor's,Chennai,Medium,920776
+Manager,5,Master's,Hyderabad,Small,1386512
+Web Developer,14,Bachelor's,Mumbai,Small,762293
+Data Scientist,12,PhD,Kolkata,Large,1680019
+DevOps Engineer,13,Bachelor's,Hyderabad,Large,1167172
+DevOps Engineer,4,Master's,Delhi,Large,1040550
+Software Engineer,1,Bachelor's,Pune,Medium,587048
+Data Scientist,18,Master's,Pune,Large,1746106
+DevOps Engineer,2,Master's,Kolkata,Medium,892211
+Data Scientist,18,Master's,Bangalore,Medium,1614529
+Manager,19,Master's,Chennai,Large,2565856
+Data Scientist,14,Master's,Mumbai,Small,1235228
+DevOps Engineer,5,Bachelor's,Pune,Small,744331
+DevOps Engineer,19,Master's,Chennai,Large,1681419
+ML Engineer,2,PhD,Hyderabad,Medium,1169346
+DevOps Engineer,5,PhD,Bangalore,Large,1202678
+Web Developer,12,PhD,Kolkata,Medium,1107907
+Web Developer,4,Master's,Bangalore,Large,836526
+Manager,5,Bachelor's,Pune,Large,1327100
+DevOps Engineer,3,Bachelor's,Chennai,Medium,721423
+ML Engineer,15,PhD,Pune,Medium,1803500
+Manager,18,Bachelor's,Hyderabad,Large,2097547
+ML Engineer,4,PhD,Chennai,Medium,1280813
+Data Scientist,1,Master's,Mumbai,Medium,916913
+DevOps Engineer,17,Bachelor's,Chennai,Medium,1152948
+DevOps Engineer,8,PhD,Mumbai,Small,1165915
+Manager,18,PhD,Kolkata,Small,2436218
+Software Engineer,15,PhD,Mumbai,Large,1568225
+DevOps Engineer,5,Bachelor's,Chennai,Medium,769666
+Manager,0,PhD,Bangalore,Small,1232018
+DevOps Engineer,9,Master's,Delhi,Large,1226442
+Software Engineer,0,Master's,Kolkata,Medium,763121
+Data Scientist,4,PhD,Kolkata,Large,1341744
+Web Developer,8,Master's,Delhi,Small,762040
+Web Developer,5,Bachelor's,Chennai,Large,732890
+Manager,0,Bachelor's,Pune,Medium,997877
+Software Engineer,3,Bachelor's,Hyderabad,Small,587719
+Data Scientist,2,Master's,Chennai,Medium,970031
+Web Developer,8,Bachelor's,Hyderabad,Medium,711570
+Web Developer,15,Bachelor's,Chennai,Medium,860094
+ML Engineer,1,Bachelor's,Bangalore,Small,718049
+Data Scientist,15,Bachelor's,Delhi,Large,1308598
+DevOps Engineer,12,Bachelor's,Pune,Medium,1038093
+Data Scientist,17,Bachelor's,Bangalore,Small,1144436
+Manager,17,Master's,Kolkata,Large,2433526
+Web Developer,20,Bachelor's,Mumbai,Medium,1020311
+Data Scientist,1,Bachelor's,Mumbai,Medium,732826
+DevOps Engineer,4,PhD,Chennai,Large,1194234
+ML Engineer,1,PhD,Chennai,Large,1258908
+ML Engineer,6,Master's,Bangalore,Medium,1167537
+Web Developer,8,Master's,Kolkata,Medium,877017
+Software Engineer,4,PhD,Delhi,Large,1085127
+Web Developer,0,Bachelor's,Bangalore,Large,554786
+Data Scientist,0,Master's,Bangalore,Small,706419
+Software Engineer,4,PhD,Pune,Large,1087962
+Data Scientist,11,PhD,Bangalore,Small,1345334
+Web Developer,17,Bachelor's,Bangalore,Medium,892555
+Software Engineer,2,Master's,Delhi,Small,693185
+Web Developer,2,Master's,Mumbai,Large,767530
+Manager,6,Bachelor's,Kolkata,Large,1440412
+Software Engineer,14,Master's,Kolkata,Large,1354784
+Data Scientist,4,Master's,Pune,Medium,977510
+Data Scientist,1,Master's,Kolkata,Small,788550
+ML Engineer,20,Bachelor's,Kolkata,Medium,1534692
+Software Engineer,6,PhD,Mumbai,Medium,1112695
+Software Engineer,18,Master's,Bangalore,Large,1480758
+Software Engineer,15,Bachelor's,Pune,Small,953755
+Data Scientist,11,PhD,Delhi,Medium,1550695
+DevOps Engineer,9,Bachelor's,Pune,Small,872518
+Web Developer,8,PhD,Mumbai,Large,1117431
+Manager,1,PhD,Bangalore,Large,1635895
+Web Developer,9,Bachelor's,Bangalore,Small,641148
+Web Developer,12,Bachelor's,Kolkata,Small,693647
+Manager,18,Master's,Pune,Large,2546549
+Data Scientist,8,Master's,Delhi,Small,1074947
+DevOps Engineer,19,Bachelor's,Bangalore,Large,1399123
+Web Developer,0,Bachelor's,Delhi,Medium,502257
+Data Scientist,12,Bachelor's,Delhi,Medium,1088791
+Data Scientist,4,PhD,Chennai,Large,1330949
+Data Scientist,2,PhD,Hyderabad,Medium,1104007
+Software Engineer,6,PhD,Hyderabad,Small,941718
+ML Engineer,13,Bachelor's,Hyderabad,Medium,1200491
+Data Scientist,14,Bachelor's,Pune,Medium,1199986
+Software Engineer,6,Master's,Bangalore,Large,1060305
+Manager,18,Bachelor's,Kolkata,Small,1681169
+Software Engineer,7,PhD,Hyderabad,Large,1251945
+ML Engineer,20,Bachelor's,Mumbai,Medium,1471568
+Web Developer,1,PhD,Bangalore,Small,616044
+Manager,10,Master's,Chennai,Large,1944883
+Data Scientist,9,PhD,Delhi,Medium,1381637
+Software Engineer,18,Bachelor's,Delhi,Large,1236897
+Manager,13,Master's,Pune,Large,2209461
+ML Engineer,9,Bachelor's,Pune,Large,1219937
+Software Engineer,14,PhD,Chennai,Medium,1431276
+Data Scientist,13,PhD,Chennai,Medium,1583751
+DevOps Engineer,5,PhD,Hyderabad,Large,1211707
+DevOps Engineer,19,Bachelor's,Bangalore,Small,1165077
+Manager,14,PhD,Chennai,Small,2174808
+Software Engineer,4,Master's,Pune,Small,789332
+Web Developer,14,PhD,Chennai,Small,1075480
+Data Scientist,12,PhD,Pune,Small,1442704
+Manager,1,Master's,Bangalore,Large,1419328
+Software Engineer,4,Master's,Kolkata,Small,821770
+Data Scientist,15,Bachelor's,Delhi,Medium,1244736
+Data Scientist,11,Bachelor's,Delhi,Medium,1105907
+Software Engineer,6,PhD,Mumbai,Small,962132
+ML Engineer,10,Bachelor's,Pune,Large,1238450
+ML Engineer,0,Master's,Chennai,Large,1007255
+Web Developer,14,PhD,Pune,Large,1261779
+DevOps Engineer,10,PhD,Mumbai,Medium,1389471
+ML Engineer,8,Master's,Mumbai,Medium,1255993
+ML Engineer,9,Bachelor's,Mumbai,Small,993937
+Manager,14,Master's,Delhi,Small,1847193
+Web Developer,10,PhD,Chennai,Small,928903
+Manager,2,Master's,Bangalore,Small,1203056
+ML Engineer,13,PhD,Mumbai,Small,1564970
+ML Engineer,5,Master's,Pune,Medium,1130068
+Software Engineer,2,Bachelor's,Bangalore,Small,551301
+DevOps Engineer,15,PhD,Mumbai,Large,1740981
+Web Developer,5,PhD,Hyderabad,Large,950217
+Software Engineer,4,Master's,Delhi,Medium,874260
+Data Scientist,17,Bachelor's,Chennai,Large,1431274
+DevOps Engineer,10,Bachelor's,Hyderabad,Large,1103849
+Data Scientist,17,Bachelor's,Bangalore,Large,1391091
+Software Engineer,20,Master's,Chennai,Small,1258951
+Software Engineer,1,Master's,Chennai,Small,639067
+Software Engineer,16,PhD,Mumbai,Medium,1470550
+Web Developer,3,Master's,Chennai,Medium,698111
+Web Developer,16,Bachelor's,Bangalore,Small,811800
+Web Developer,16,Bachelor's,Chennai,Large,948834
+Web Developer,2,Master's,Chennai,Small,544200
+DevOps Engineer,17,Bachelor's,Hyderabad,Medium,1217255
+Web Developer,12,Master's,Hyderabad,Medium,970493
+ML Engineer,9,PhD,Chennai,Medium,1522052
+Manager,4,Master's,Delhi,Large,1540420
+Data Scientist,9,PhD,Mumbai,Large,1587959
+Data Scientist,20,PhD,Mumbai,Small,1800527
+ML Engineer,6,Master's,Hyderabad,Medium,1210863
+DevOps Engineer,10,Bachelor's,Mumbai,Large,1103265
+DevOps Engineer,3,Master's,Chennai,Medium,908981
+Software Engineer,7,Master's,Kolkata,Medium,992057
+Data Scientist,12,PhD,Mumbai,Large,1736129
+Manager,1,Bachelor's,Mumbai,Medium,1052611
+Data Scientist,20,Bachelor's,Pune,Medium,1394745
+DevOps Engineer,20,PhD,Pune,Large,2015258
+Manager,17,Bachelor's,Mumbai,Medium,1810070
+Software Engineer,0,Bachelor's,Chennai,Small,582137
+Web Developer,2,Master's,Kolkata,Large,676882
+Manager,4,PhD,Hyderabad,Large,1807115
+Web Developer,1,Master's,Chennai,Medium,588997
+DevOps Engineer,18,Master's,Pune,Large,1611901
+Web Developer,12,PhD,Hyderabad,Medium,1098471
+Web Developer,14,Bachelor's,Mumbai,Medium,831641
+ML Engineer,1,Bachelor's,Hyderabad,Medium,792358
+Web Developer,10,Master's,Bangalore,Large,986264
+Data Scientist,8,Bachelor's,Mumbai,Small,865790
+DevOps Engineer,17,Master's,Bangalore,Large,1622938
+DevOps Engineer,19,Bachelor's,Delhi,Medium,1232068
+ML Engineer,14,Master's,Kolkata,Medium,1536157
+Data Scientist,0,Master's,Mumbai,Large,895938
+Data Scientist,17,Bachelor's,Chennai,Large,1421891
+Software Engineer,12,Master's,Pune,Medium,1110858
+Software Engineer,15,PhD,Delhi,Small,1330817
+DevOps Engineer,10,Bachelor's,Delhi,Small,882050
+ML Engineer,14,PhD,Kolkata,Small,1602125
+Data Scientist,18,Master's,Bangalore,Medium,1638914
+Data Scientist,5,Bachelor's,Bangalore,Large,942868
+ML Engineer,5,Bachelor's,Kolkata,Small,857212
+Software Engineer,12,PhD,Bangalore,Small,1201461
+Data Scientist,2,Bachelor's,Kolkata,Small,679057
+Software Engineer,13,PhD,Bangalore,Small,1255956
+Web Developer,7,Master's,Hyderabad,Medium,817410
+Data Scientist,15,Bachelor's,Kolkata,Medium,1243782
+Manager,12,Master's,Delhi,Small,1734961
+Manager,4,PhD,Kolkata,Small,1504289
+Data Scientist,3,PhD,Pune,Small,1015755
+ML Engineer,6,PhD,Pune,Medium,1317160
+Manager,20,Bachelor's,Hyderabad,Large,2176141
+Data Scientist,15,Master's,Bangalore,Large,1601146
+Software Engineer,2,Bachelor's,Pune,Medium,625157
+ML Engineer,8,Bachelor's,Delhi,Small,968557
+Data Scientist,13,Master's,Bangalore,Medium,1412917
+Manager,3,Master's,Bangalore,Small,1266066
+Data Scientist,3,PhD,Bangalore,Medium,1144766
+ML Engineer,14,Master's,Kolkata,Large,1645825
+Data Scientist,17,Bachelor's,Pune,Medium,1321825
+DevOps Engineer,1,PhD,Kolkata,Small,880774
+ML Engineer,12,PhD,Hyderabad,Medium,1713419
+Manager,5,Master's,Hyderabad,Large,1628792
+ML Engineer,3,Bachelor's,Kolkata,Medium,897675
+DevOps Engineer,17,Bachelor's,Kolkata,Large,1345268
+Manager,19,Bachelor's,Hyderabad,Large,2182833
+DevOps Engineer,18,PhD,Kolkata,Large,1916128
+Web Developer,2,PhD,Bangalore,Medium,766356
+ML Engineer,1,Bachelor's,Delhi,Large,846218
+Web Developer,9,Bachelor's,Bangalore,Small,670583
+DevOps Engineer,18,Master's,Pune,Small,1349096
+Manager,9,PhD,Pune,Medium,2000686
+DevOps Engineer,18,Bachelor's,Kolkata,Small,1090678
+DevOps Engineer,19,Master's,Bangalore,Medium,1563216
+Web Developer,17,Master's,Delhi,Medium,1118870
+Web Developer,20,Bachelor's,Hyderabad,Large,1100282
+ML Engineer,20,Bachelor's,Kolkata,Large,1644523
+DevOps Engineer,20,Bachelor's,Mumbai,Large,1403312
+Web Developer,8,Bachelor's,Chennai,Large,780722
+DevOps Engineer,1,PhD,Bangalore,Large,1005872
+Manager,5,PhD,Delhi,Medium,1740239
+Software Engineer,15,Bachelor's,Chennai,Small,990845
+Web Developer,7,PhD,Chennai,Small,880736
+Software Engineer,7,Master's,Kolkata,Small,899960
+ML Engineer,7,Bachelor's,Kolkata,Small,880048
+Software Engineer,2,Master's,Mumbai,Large,843824
+DevOps Engineer,20,Master's,Kolkata,Medium,1557022
+ML Engineer,1,Bachelor's,Hyderabad,Large,901759
+Data Scientist,15,Master's,Chennai,Small,1304786
+ML Engineer,13,Bachelor's,Kolkata,Small,1082902
+ML Engineer,17,Master's,Bangalore,Large,1830754
+ML Engineer,4,Bachelor's,Hyderabad,Small,808632
+Manager,11,Master's,Hyderabad,Small,1686307
+Data Scientist,11,Master's,Kolkata,Large,1435660
+Data Scientist,15,Bachelor's,Kolkata,Small,1130654
+Manager,7,PhD,Chennai,Small,1694357
+Data Scientist,0,Master's,Mumbai,Medium,872254
+Data Scientist,0,Master's,Bangalore,Small,778420
+Software Engineer,3,Bachelor's,Chennai,Large,737338
+Web Developer,8,Bachelor's,Delhi,Large,745571
+ML Engineer,8,PhD,Pune,Large,1605439
+DevOps Engineer,6,Master's,Delhi,Small,880718
+Software Engineer,4,PhD,Pune,Small,865608
+Software Engineer,0,PhD,Mumbai,Large,915590
+Software Engineer,15,Bachelor's,Mumbai,Medium,1012728
+Data Scientist,9,Master's,Mumbai,Medium,1196257
+DevOps Engineer,1,PhD,Delhi,Large,1019666
+DevOps Engineer,16,Master's,Delhi,Medium,1414645
+ML Engineer,9,PhD,Pune,Small,1335728
