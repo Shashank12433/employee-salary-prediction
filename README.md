@@ -1,6 +1,6 @@
 To run the project:
 
-Commands:
+Use Commands as following:
 
 1) pip install pandas scikit-learn gradio plotly
 2) pip install gradio --upgrade
